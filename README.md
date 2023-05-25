@@ -6,3 +6,4 @@ For my first project using the knowledge I have accumulated relating to the HTML
 Somethings that I should iron out:
 - remember how to make unordered and ordered lists
 - How to properly use h1, h2, h3 etc. Can they be used more than once?
+- memorize the tag for bolding and italicizing.
